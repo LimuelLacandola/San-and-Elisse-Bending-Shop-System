@@ -31,5 +31,5 @@ require_once 'db_connection.php';
 
     $stmt->close();
     $conn->close();
-}
+
 ?>
