@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Limuel Lacandola
 
 # School Name:
-* Eulogio "Amang" Rodriguez Insitute of Science and Technology
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
 
 Nagtahan, Sampaloc, Manila, Philippines
 
